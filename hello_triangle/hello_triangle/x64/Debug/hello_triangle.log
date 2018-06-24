@@ -1,0 +1,4 @@
+﻿  Source.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  hello_triangle.vcxproj -> H:\Sample\OGL\learnopengl.com\hello_triangle\x64\Debug\hello_triangle.exe
+  hello_triangle.vcxproj -> H:\Sample\OGL\learnopengl.com\hello_triangle\x64\Debug\hello_triangle.pdb (Partial PDB)

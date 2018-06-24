@@ -1,0 +1,10 @@
+
+
+
+ERROR::SHADER::FILE_NOT_SUCCESFULLY_READ
+| ERROR::::PROGRAM-LINKING-ERROR of type: PROGRAM|
+Vertex info
+-----------
+(0) : error C5145: must write to gl_Position
+
+| -- --------------------------------------------------- -- |

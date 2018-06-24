@@ -1,0 +1,7 @@
+﻿  shaders-using-object.cpp
+h:\sample\ogl\_learned\shader-002\shader-002\shader.h(65): warning C4101: 'infoLog': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\shader-002\shader-002\shader.h(64): warning C4101: 'success': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\shader-002\shader-002\shaders-using-object.cpp(143): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+h:\sample\ogl\_learned\shader-002\shader-002\shaders-using-object.cpp(144): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  Shader-002.vcxproj -> H:\Sample\OGL\_Learned\Shader-002\x64\Debug\Shader-002.exe
+  Shader-002.vcxproj -> H:\Sample\OGL\_Learned\Shader-002\x64\Debug\Shader-002.pdb (Partial PDB)

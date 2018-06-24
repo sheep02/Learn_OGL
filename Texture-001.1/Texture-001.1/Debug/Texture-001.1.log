@@ -1,0 +1,10 @@
+﻿  texture-001_1.cpp
+h:\sample\ogl\_learned\texture-001.1\texture-001.1\shader.h(63): warning C4101: 'infoLog': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\texture-001.1\texture-001.1\shader.h(62): warning C4101: 'success': ローカル変数は 1 度も使われていません。
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(image_DXT.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-001.1\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(image_helper.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-001.1\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(SOIL.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-001.1\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(stb_image_aug.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-001.1\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  Texture-001.1.vcxproj -> H:\Sample\OGL\_Learned\Texture-001.1\Debug\Texture-001.1.exe
+  Texture-001.1.vcxproj -> H:\Sample\OGL\_Learned\Texture-001.1\Debug\Texture-001.1.pdb (Partial PDB)

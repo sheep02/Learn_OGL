@@ -1,0 +1,8 @@
+﻿  textures_combined.cpp
+h:\sample\ogl\_learned\texture-000\texture-000\shader.h(63): warning C4101: 'infoLog': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\texture-000\texture-000\shader.h(62): warning C4101: 'success': ローカル変数は 1 度も使われていません。
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+textures_combined.obj : error LNK2019: 未解決の外部シンボル SOIL_load_image が関数 main で参照されました。
+textures_combined.obj : error LNK2019: 未解決の外部シンボル SOIL_free_image_data が関数 main で参照されました。
+SOIL.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+H:\Sample\OGL\_Learned\Texture-000\x64\Debug\Texture-000.exe : fatal error LNK1120: 2 件の未解決の外部参照

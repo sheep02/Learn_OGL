@@ -1,0 +1,5 @@
+﻿  shaders-using-object.cpp
+h:\sample\ogl\_learned\shader-001\shader-001\shader.h(65): warning C4101: 'infoLog': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\shader-001\shader-001\shader.h(64): warning C4101: 'success': ローカル変数は 1 度も使われていません。
+  Shader-001.vcxproj -> H:\Sample\OGL\_Learned\Shader-001\x64\Debug\Shader-001.exe
+  Shader-001.vcxproj -> H:\Sample\OGL\_Learned\Shader-001\x64\Debug\Shader-001.pdb (Partial PDB)

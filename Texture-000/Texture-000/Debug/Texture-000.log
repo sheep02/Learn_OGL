@@ -1,0 +1,8 @@
+﻿  LINK : 前回のインクリメンタル リンクで H:\Sample\OGL\_Learned\Texture-000\Debug\Texture-000.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(image_DXT.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-000\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(image_helper.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-000\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(SOIL.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-000\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' が 'SOIL.lib(stb_image_aug.obj)' で、または 'H:\Sample\OGL\_Learned\Texture-000\Debug\vc110.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  Texture-000.vcxproj -> H:\Sample\OGL\_Learned\Texture-000\Debug\Texture-000.exe
+  Texture-000.vcxproj -> H:\Sample\OGL\_Learned\Texture-000\Debug\Texture-000.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  texture-001.cpp
+h:\sample\ogl\_learned\texture-001\texture-001\shader.h(63): warning C4101: 'infoLog': ローカル変数は 1 度も使われていません。
+h:\sample\ogl\_learned\texture-001\texture-001\shader.h(62): warning C4101: 'success': ローカル変数は 1 度も使われていません。
+  Texture-001.vcxproj -> H:\Sample\OGL\_Learned\Texture-001\Debug\Texture-001.exe
+  Texture-001.vcxproj -> H:\Sample\OGL\_Learned\Texture-001\Debug\Texture-001.pdb (Partial PDB)
